@@ -1,4 +1,6 @@
 # fast JSON formatting (Caché / Ensemble)
+ [![Quality Gate Status](https://community.objectscriptquality.com/api/project_badges/measure?project=intersystems_iris_community%2Ffast-JSON-formatting-Cache-ZPM&metric=alert_status)](https://community.objectscriptquality.com/dashboard?id=intersystems_iris_community%2Ffast-JSON-formatting-Cache-ZPM)
+
 It's also an example for a customized command extension (ZZJSN) in Caché & IRIS 
   
 This is the Caché version for fast JSON formatting but it also works in IRIS.   
